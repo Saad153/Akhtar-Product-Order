@@ -1,0 +1,7 @@
+pandas
+openpyxl
+fastapi
+uvicorn
+customtkinter
+requests
+auto-py-to-exe
